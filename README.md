@@ -1,2 +1,14 @@
 # youbo-result-archive
-HTML page archive and documentation
+
+公开页面文件归档
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
